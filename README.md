@@ -2,3 +2,4 @@
 eesoft home website
 Hi
 Creation of build every minute by poll scm
+Attaching build log
